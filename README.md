@@ -4,9 +4,6 @@
     <h1 align="center">Hello World 👋, I'm Ramcharan S</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<div align="center">
-<img src="https://tenor.com/view/geek-girl-green-hair-computer-confused-gif-25438257" alt="image" />
-
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramcharxn" alt="ramcharxn" /></a> </p>
 
