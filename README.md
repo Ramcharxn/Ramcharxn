@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <div align="center">
-<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
-</div>
+<div class="tenor-gif-embed" data-postid="25438257" data-share-method="host" data-aspect-ratio="1.04575" data-width="100%"><a href="https://tenor.com/view/geek-girl-green-hair-computer-confused-gif-25438257">Geek Girl Sticker</a>from <a href="https://tenor.com/search/geek-stickers">Geek Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramcharxn" alt="ramcharxn" /></a> </p>
