@@ -5,12 +5,12 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <div align="center">
-<div class="tenor-gif-embed" data-postid="25438257" data-share-method="host" data-aspect-ratio="1.04575" data-width="100%"><a href="https://tenor.com/view/geek-girl-green-hair-computer-confused-gif-25438257">Geek Girl Sticker</a>from <a href="https://tenor.com/search/geek-stickers">Geek Stickers</a></div>
+<img src="https://tenor.com/view/geek-girl-green-hair-computer-confused-gif-25438257" alt="image" />
 
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramcharxn" alt="ramcharxn" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramcharxn](https://github.com/AchyutMS)
+- 👨‍💻 All of my projects are available at [https://github.com/Ramcharxn?tab=repositories](https://github.com/ramcharxn)
 
 - 📫 How to reach me **ramcharxn@gmail.com**
 
@@ -58,8 +58,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramcharxn&show_icons=true&locale=en" alt="ramcharxn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramcharxn&" alt="ramcharxn" /></p>
-
- <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </body>
 </html>
