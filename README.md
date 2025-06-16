@@ -1,60 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
-<body>
-    <h1 align="center">Hello World 👋, I'm Ramcharan S</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+# 👋 Hi, I'm Ramcharan Suresh
 
-<br />
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramcharxn" alt="ramcharxn" /></a> </p>
+🎓 MS in Data Science @ Indiana University (2024–2026)  
+💼 Ex-Data Engineer @ Quantiphi | AWS Certified | Databricks Certified  
+🌐 [LinkedIn](https://linkedin.com/in/ramcharansuresh) | 📫 ramcharax2209@gmail.com  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ramcharxn?tab=repositories](https://github.com/ramcharxn)
+---
 
-- 📫 How to reach me **ramcharxn@gmail.com**
+## 🚀 About Me
 
+I'm a Data and ML Engineer passionate about building robust data pipelines, deploying scalable ML systems, and solving real-world problems using data. With hands-on experience in cloud-native architectures, ETL workflows, and machine learning, I’ve worked on high-impact projects in domains ranging from legacy modernization to time series forecasting and LLM-based applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Programming Languages:</h4>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<h4 align="left">Frontend Development:</h4>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🧠 What I Do
 
-<h4 align="left">Backend Development:</h4>
-<p align="left"> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### 🔹 Data Engineering  
+- Built ETL pipelines on AWS Glue, S3, and EMR to handle 500GB+ daily data  
+- Migrated 5,000+ SAS lines to PySpark, reducing runtime by 40%  
+- Modeled data using dbt, Redshift, and partitioned Parquet with predicate pushdown  
+- Implemented streaming pipelines using Apache Kafka, Flink, and Kinesis Firehose
 
-<h4 align="left">App Development:</h4>
-<p align="left"> 
- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### 🔹 Data Science & Analytics  
+- Built XGBoost and LSTM models for forecasting and regression tasks  
+- Used SHAP, feature engineering, and anomaly detection for actionable insights  
+- Designed dashboards and visualizations using Tableau, Power BI, and Seaborn
 
-<h4 align="left">AI/ML:</h4>
-<p align="left"> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🔹 MLOps & ML Engineering  
+- Tracked and deployed models with MLflow, Docker, and FastAPI  
+- Integrated async ONNX-compiled models for faster inference  
+- Reduced LLM inference cost by 75% using QLoRA and quantization  
+- Worked with transformers, fine-tuning, and retrieval-augmented generation (RAG)
 
-<h4 align="left">Database:</h4>
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+---
 
-<h4 align="left">Backend as a Service(BaaS):</h4>
-<p align="left"> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
+## 🛠️ Skills & Tools
 
-<h4 align="left">Other:</h4>
-<p align="left"> 
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+**Languages:** Python, SQL, Bash, Java  
+**ML/DS:** Scikit-learn, XGBoost, TensorFlow, Keras, PyTorch, SHAP, LLMs  
+**Data Eng:** PySpark, dbt, Kafka, Airflow, Redshift, Glue, EMR  
+**MLOps/Infra:** Docker, Terraform, GitHub Actions, MLflow, FastAPI, EC2  
+**Cloud:** AWS (S3, Lambda, Athena, Redshift, SageMaker, Kinesis)  
+**Visualization:** Tableau, Power BI, Plotly, Seaborn, Matplotlib  
 
+---
 
+## 📂 Featured Projects
 
+### 🏘️ Multi-Agent LLM Chatbot for Housing Insights  
+- Combined XGBoost + Transformer for price prediction  
+- Segmented crime-locality patterns using DBSCAN & Isolation Forest  
+- Used QLoRA + FAISS for lightweight RAG-based LLM inference  
 
+### ⚡ Utility Revenue Time Series Forecasting  
+- Trained LSTM model with engineered temporal features  
+- Boosted inference speed by 35% using vectorized decoding  
+- Deployed via Docker + Flask to EC2 without container registry overhead  
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramcharxn&show_icons=true&locale=en&layout=compact" alt="ramcharxn" /></p>
+## 🏆 Certifications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramcharxn&show_icons=true&locale=en" alt="ramcharxn" /></p>
+- 🟨 AWS Certified Cloud Practitioner  
+- 🟪 Databricks Certified Data Engineer Associate  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramcharxn&" alt="ramcharxn" /></p>
+---
 
-</body>
-</html>
+## 📫 Let’s Connect
+
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/ramcharansuresh) or email me at **ramcharax2209@gmail.com**. I'm always open to interesting conversations, collaboration, and new opportunities in Data Science, ML, and Cloud Engineering!
